@@ -1,4 +1,4 @@
-//"Welcome to the line computation program "
+///"Welcome to the line computation program "
 import java.util.Scanner;
 public class OopsGeometry
 {
@@ -41,7 +41,7 @@ public class OopsGeometry
 						Integer L1=Integer.valueOf(len1);
 						Integer L2=Integer.valueOf(len2);
 
-						System.out.println(L1.equals(L2));
+						System.out.println("equality of 2 lengths is: "+L1.equals(L2));
 
 				}
 
