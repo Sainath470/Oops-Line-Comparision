@@ -42,6 +42,7 @@ public class OopsGeometry
 						Integer L2=Integer.valueOf(len2);
 
 						System.out.println("equality of 2 lengths is: "+L1.equals(L2));
+						System.out.println("Comparing 2 lengths : "+L1.compareTo(L2));
 
 				}
 
