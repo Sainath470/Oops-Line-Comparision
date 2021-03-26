@@ -36,7 +36,7 @@ public class OopsGeometry
 					double x2=userInput1("Enter the x2 co-ordinate: ");
 			      		double y2=userInput1("Enter the y2 co-ordinate: ");
 
-				   double p1=userInput1("Enter the p1 co-ordinate: ");
+      				   double p1=userInput1("Enter the p1 co-ordinate: ");
                				double q1=userInput1("Enter the q1 co-ordinate: ");
                				double p2=userInput1("Enter the p2 co-ordinate: ");
                				double q2=userInput1("Enter the q2 co-ordinate: ");
